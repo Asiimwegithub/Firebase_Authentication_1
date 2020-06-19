@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890785141419",
+    "firebase_url": "https://myfirebaseauthapp-c266c.firebaseio.com",
+    "project_id": "myfirebaseauthapp-c266c",
+    "storage_bucket": "myfirebaseauthapp-c266c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890785141419:android:fd66941e88d8988a6e5dee",
+        "android_client_info": {
+          "package_name": "com.delick.firebaseauthent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890785141419-3ofthvr87fu0vriqkttu654u70b52726.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAubJ3N90MpCVQPI7067Ej0sFyfWzPXIXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890785141419-3ofthvr87fu0vriqkttu654u70b52726.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
